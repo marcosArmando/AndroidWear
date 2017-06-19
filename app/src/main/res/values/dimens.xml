@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nombre_mascota">25dp</dimen>
+    <dimen name="top">20dp</dimen>
+    <dimen name="left">10dp</dimen>
+    <dimen name="cornerRadius_card">4dp</dimen>
+    <dimen name="nombre_cardview">20sp</dimen>
+    <dimen name="elevacion_appbar">4dp</dimen>
+    <dimen name="padding_izquierda">50dp</dimen>
+    <dimen name="padding_superIzq">150dp</dimen>
+    <dimen name="bordes">2dp</dimen>
+    <dimen name="bajo_FAB">480dp</dimen>
+    <dimen name="largo_FAB">280dp</dimen>
+    <dimen name="padding_superIzq2">120dp</dimen>
+    <dimen name="altura_foto">300dp</dimen>
+    <dimen name="padding_superIzq3">100dp</dimen>
+    <dimen name="largo_comentario">150dp</dimen>
+    <dimen name="nombre_perfil">10sp</dimen>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "264522934325",
+    "firebase_url": "https://petagram-cb05c.firebaseio.com",
+    "project_id": "petagram-cb05c",
+    "storage_bucket": "petagram-cb05c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264522934325:android:cb18c4cf42b5545f",
+        "android_client_info": {
+          "package_name": "com.yucatancorp.petagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264522934325-5v3k1kqv2ti5b2efo6o2nf00it2crj5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMv30WLp-2omTrd0PoIG6Eyh9QXm9Ac-Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

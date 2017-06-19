@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="pnombre">nombre</string>
+    <string name="segunda_actividad">Texto de segunda activity</string>
+    <string name="acerca_de">Acerca de</string>
+    <string name="mensaje">Mensaje</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre_formulario">Nombre</string>
+    <string name="email_formulario">Correo</string>
+    <string name="mensaje_formulario">Mensaje</string>
+    <string name="boton_formulario">Enviar mensaje</string>
+    <string name="nombre_portada">Catty</string>
+    <string name="calificacion">0</string>
+    <string name="bio">Marcos Narvaez, licenciado en mercadotecnia, iniciando en programación, con conocimientos en HTML5, Yucatán, México.</string>
+</resources>
+
